@@ -1,0 +1,9 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --primary-text: dodgerblue;
+  --font-family: sans-serif;
+}
+h1{
+  color: var(--primary-text);
+}
